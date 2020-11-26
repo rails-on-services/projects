@@ -1,0 +1,5 @@
+---
+ros:
+  name: ros
+  config:
+    url: git@github.com:rails-on-services/ros.git

@@ -1,0 +1,6 @@
+---
+key: development
+# type: Target::Instance
+runtime: compose
+builder: terraform
+provider: localstack

@@ -1,0 +1,12 @@
+# users.yml
+---
+kostya:
+  role: some_dude
+kman:
+  role: operator
+  tags:
+    name: cool
+rob:
+  role: owner
+  tags:
+    status: swell
